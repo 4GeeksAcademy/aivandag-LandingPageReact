@@ -2,7 +2,7 @@ const Navbar = () => {
   return (
   
       <nav className="navbar navbar-expand-lg bg-dark">
-        <div className="container-fluid">
+        <div className="container">
           <a className="navbar-brand text-light" href="#">Start Bootstrap</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
             data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
